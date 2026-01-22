@@ -1,0 +1,20 @@
+# Network configuration
+sonar_ip: "140.102.1.23"
+sonar_port: 2209
+
+gui_ip: "localhost"
+gui_port: 40804
+gui_ws_path: "WBMSControl"
+
+backseat_ip: "140.102.1.1"
+backseat_port: 11080
+
+# File paths
+presets_file: "presets.yaml"
+logs_directory: "logs"
+s7k_directory: "C:/Users/Felix Sizemskii/Norbit/WBMS/"
+params_directory: "C:/Users/Felix Sizemskii/Desktop/Internship-technical/My code/s7k-maker"
+
+# Timing
+poll_interval: 1
+recording_delay: 1
